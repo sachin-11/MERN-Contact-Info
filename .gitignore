@@ -1,3 +1,16 @@
 /node_modules
 /gitignore
 config
+
+/client/build
+/client/node_modules
+
+.DS_Store
+/client/.env.local
+/client/.env.development.local
+/client/.env.test.local
+/client/.env.production.local
+
+npm-debug.logo*
+yarn-debug.logo*
+yarn.error.logo*
